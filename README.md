@@ -1,6 +1,4 @@
-Welcome to cryptodome.
+# Welcome to Cruptodome Co.
+![channels4_banner](https://github.com/user-attachments/assets/66db7b02-5623-4ec8-b59a-deb7c47fc109)
 
-<!---
-hemaabokila/hemaabokila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to the world of cryptography.
