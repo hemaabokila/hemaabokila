@@ -1,5 +1,3 @@
-![channels4_banner](https://github.com/user-attachments/assets/66db7b02-5623-4ec8-b59a-deb7c47fc109)
-
 # Ibrahim Helal Abo Kila
 ## Python Developer
 
@@ -10,8 +8,6 @@
 **🌐 Website:** [ibrahemabokila.pythonanywhere.com](https://ibrahemabokila.pythonanywhere.com)
 
 ---
-
-## 🚀 PROFESSIONAL SUMMARY
 
 Passionate **Python Developer** with **1+ years** of hands-on experience building **enterprise-grade systems** and **production-ready APIs**. Specialized in creating **scalable microservices architectures**, **automation frameworks**, and **security tools** that solve real business problems. 
 
