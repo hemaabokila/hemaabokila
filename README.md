@@ -10,10 +10,4 @@
 ---
 
 Passionate **Python Developer** with **1+ years** of hands-on experience building **enterprise-grade systems** and **production-ready APIs**. Specialized in creating **scalable microservices architectures**, **automation frameworks**, and **security tools** that solve real business problems. 
-
-**Key Achievements:**
-- Built complete microservices ecosystem with 99.9% uptime
-- Developed 3 production-ready frameworks from scratch
-- Automated security testing workflows saving 80% manual effort
-
 ---
